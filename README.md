@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+Jewel's Here, Currently a master student in USTC✖️CAS·SIAT, ex Microsofter.I'm always help people to achieve more!✨
+- 🔭 I’m currently working on TwitterDown(https://www.twitterdown.com/) and IndieSubmit(https://www.indiesubmit.com)
+- 🌱 I’m currently learning how to make more people enjoy the happiness of AI
+- 👯 I’m looking to collaborate on Indie Projects
+- 💬 Ask me about how to build websites without writing one line of code
+- 📫 How to reach me: hi@chillwaytech.com
 <!--
 **BestLemoon/bestlemoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
